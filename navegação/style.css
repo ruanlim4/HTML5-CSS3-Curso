@@ -19,3 +19,8 @@ body.dark-mode a {
     align-items: center; 
     margin-right: 3rem;
 }
+
+ul.desafios {
+    list-style-type: square;
+}
+
