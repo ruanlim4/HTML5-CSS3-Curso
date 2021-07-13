@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="pt-br">
+<html style="scroll-behavior: smooth;" lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -8,7 +8,7 @@
 </head>
 <body style="margin: 2rem; margin-top: 0;">
     <div style="display: flex; justify-content: space-between; align-items: center; margin-right: 1rem;">
-        <h1>Imagem dinâmica</h1>
+        <h1 id="top">Imagem dinâmica</h1>
         <a href="../../navegação/index.html">Home</a>
     </div>
     
@@ -21,7 +21,7 @@
     <hr>
     <h1>Reproduzindo Áudio</h1>
     <p>Vamos aprender a reproduzir áudios em HTML5</p>
-    <audio src="midia/One More Time - Ofshane.mp3" controls ></audio> <!-- autoplay -->
+    <audio src="midia/One More Time - Ofshane.mp3" controls loop muted></audio> <!-- autoplay -->
     <!-- MP3 WAV OGG -->
     <hr>
     <audio preload="metadata" controls loop>
@@ -32,6 +32,8 @@
     </audio>
     <hr>
     <p>Infelizmente seu navegador não consegue reproduzir áudio <a href="midia/guanacast-33.mp3" target="_blank" download="auto">Clique aqui para baixar o arquivo</a></p>
+
+    <a href="#top"><button style="width: 3rem; height: 3rem; font-size: large; cursor: pointer;" type="button">&uarr;</button></a>
     
 </body>
 </html>
