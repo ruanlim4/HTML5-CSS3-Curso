@@ -11,7 +11,7 @@ body.dark-mode,
 body.dark-mode a {
     background: black; 
     color: white;
-}
+} /* links precisam de especificidade alta para aplicar estilos: como color e background. Apesar de 'a' estar dentro de body.dark-mode, eu preciso declarar especificamente os links */
 
 .container {
     display: flex; 

@@ -16,7 +16,7 @@
 
     <p>teste de paragrafo <a href="https://www.youtube.com/" target="_blank" rel="external"><abbr title="acesse o link para o youtube">YouTube</abbr></a></p>
 
-    <a href="/exercicios/ex009/index.html">ex009</a>
+    <a href="../ex009/index.html">ex009</a>
 
     <h2>Usando links internos</h2>
     <p>Esta é a primeira pagina do site. Se você quiser pode acessar também a minha <a href="pag002.html" target="_self" rel="next">Segunda página</a></p>
@@ -25,8 +25,10 @@
 
     <h1>Links para download</h1>
     <ul>
-        <li><a href="livro/meulivro.pdf" download="meulivro.pdf" type="application/pdf">Baixar o livro em PDF</a></li>
-        <li><a href="livro/meulivro.zip" download="meulivro.zip" type="application/zip">Baixar compactado em RAR</a></li>
+        <li><a href="livro/meulivro.pdf" download="" type="application/pdf">Baixar o livro em PDF</a></li> 
+        <!-- atributo download, baixa automaticamente o link href, caso determine um nome dentro dos parenteses então esse será o mesmo nome do arquivo que sera baixado indenpendente do nome original do arquivo -->
+        <li><a href="livro/meulivro.zip" download="meulivro.zip" type="application/zip">Baixar compactado em RAR</a></li> 
+        <!-- appliaction/zip é um media type, cada arquivo tipo de arquivo tem uma declaração type especifica -->
     </ul>
 
 </body>
