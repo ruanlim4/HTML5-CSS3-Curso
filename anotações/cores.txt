@@ -7,7 +7,7 @@ sabedoria, calma, frio.
 
 vermelho muito ultilizado para marcas de comida: Mcdonalds, Habbibs, Bobs.
 
-*site calem vinhos do porto*
+*site ca'lem vinhos do porto*
 
 cédric pereira
 
@@ -34,5 +34,11 @@ dica de paleta de cores:
 
 
 paleta de cores 3-5 cores (usar cor primaria da logo como cor primaria do site)
-    
- 
+
+ ~Ferramentas de cores~
+
+    -adobe color *extrair tema*
+    -paletton *examples*
+    -coolors
+    -gimp/photoshop *conta gota*
+    -colorzilla
