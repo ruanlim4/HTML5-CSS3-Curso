@@ -6,16 +6,30 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Gradiente em CSS</title>
     <style>
-        * { /* configurações globais do CSS */
-            height: 100%;
-        }
         body {
             background-image: linear-gradient(to bottom, #4fffdc, #3fccb0);
             background-attachment: fixed;
+            margin-left: 1rem;
+            margin-right: 1rem;
+            display: flex;
+            justify-content: space-between;
         }
+
+        nav {
+            text-align: right;
+            margin-top: .5rem;
+        }
+
     </style>
 </head>
 <body>
-    <h1>Testando Gradiente</h1>
+    <h1 style="margin-top: .5rem;">Testando Gradiente</h1>
+    <nav>
+        <a href="cor01.html">cor01</a>
+        <a href="#">cor02</a>
+        <a href="cor03.html">cor03</a>
+        <br><br>
+        <a href="../../navegação/index.html">Home</a>
+    </nav>
 </body>
 </html>

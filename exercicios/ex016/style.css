@@ -4,9 +4,15 @@
     font-family: Arial, Helvetica, sans-serif;
 
 }
+nav {
+    text-align: right;
+    margin-right: 1rem;
+}
 
 body {
     background-image: linear-gradient(to right, #F1D8C9, #F2C3A7 );
+    display: flex;
+    margin-top: 1rem;
 }
 
 main {
@@ -32,6 +38,3 @@ p {
     text-align: justify;
 }
 
-footer {
-    margin-left: 2rem;
-}
