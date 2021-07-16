@@ -1,0 +1,38 @@
+azul é possui maior taxar de aprovação e menor taxa 
+de reprovação. Marcas de tecnologia costumam usar 
+azul: facebook, linkedin, twitter. Azul passa competência, 
+sabedoria, calma, frio.
+
+*branco no fundo preto causa cansaço viual*
+
+vermelho muito ultilizado para marcas de comida: Mcdonalds, Habbibs, Bobs.
+
+*site calem vinhos do porto*
+
+cédric pereira
+
+    -Simetria
+    -Cor
+
+
+~Círculo Cromático~
+    *Cores complementares - são oposta; alto contraste
+    *Cores análogas - são proximas; baixo contraste
+    
+    ps: Cores análogas relacionadas.
+        Cores intercaladas -> 
+            Triádicas, em Quadrado, Tetrádicas
+        Monocromia.
+
+dica de paleta de cores:
+
+    Usar duas cores análogas e uma complementar:
+        laranja como cor base, amarelo-alaranjado 
+        vermelho alaranjado como análogas, por fim 
+        o azul como cor complementar dando alto 
+        contraste.
+
+
+paleta de cores 3-5 cores (usar cor primaria da logo como cor primaria do site)
+    
+ 
